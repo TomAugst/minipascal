@@ -1,1 +1,1 @@
-# minipascal
+# Interpretador MiniPascal
